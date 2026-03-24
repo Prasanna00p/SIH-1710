@@ -79,14 +79,14 @@ Database   AI Chatbot   Real-time Updates
 User Interface (Map / Voice Guidance)
 ```
 ## Technology Stack
-
+```
 Frontend: React Native / Flutter
 Backend: Node.js / Express
 Database: MongoDB / Firebase
 Navigation: Dijkstra / A* Algorithm
 AI: Chatbot using NLP
 Other: QR Code Integration, Indoor Positioning System
-
+```
 ## Expected Outcome
 
 Easy navigation inside railway stations
