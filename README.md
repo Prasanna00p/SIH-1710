@@ -56,6 +56,7 @@ Navigation System --> Generate Route
 Navigation System --> Railway Authority  
 Railway Authority --> Update Information
 ## System Architecture Diagram
+```
 User (Mobile App)
         |
         v
@@ -76,6 +77,7 @@ Database   AI Chatbot   Real-time Updates
         |
         v
 User Interface (Map / Voice Guidance)
+```
 ## Technology Stack
 
 Frontend: React Native / Flutter
